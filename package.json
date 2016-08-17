@@ -4,7 +4,7 @@
   "description": "Isomorphic JavaScript Example(NodeJS+ReactJS)",
   "scripts": {
     "start": "webpack && node ./bin/www",
-    "test": "webpack && node ./bin/www"
+    "test": "webpack"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
